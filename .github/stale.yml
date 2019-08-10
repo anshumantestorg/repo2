@@ -1,6 +1,6 @@
 daysUntilStale: 0.1
 daysUntilClose: 1
-staleLabel: "><img src=x onerror=alert(1)>
+staleLabel: ff
 markComment: >
   "><img src=x onerror=alert(1)>
 closeComment: false
