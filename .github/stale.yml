@@ -1,7 +1,5 @@
-daysUntilStale: 5
-daysUntilClose: 2
-exemptLabels:
-  - "><img src=x onerror=alert(1)>
+daysUntilStale: 0.1
+daysUntilClose: 1
 staleLabel: "><img src=x onerror=alert(1)>
 markComment: >
   "><img src=x onerror=alert(1)>
