@@ -1,0 +1,14 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 5
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 2
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - "><img src=x onerror=alert(1)>
+# Label to use when marking an issue as stale
+staleLabel: "><img src=x onerror=alert(1)>
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  "><img src=x onerror=alert(1)>
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: false
